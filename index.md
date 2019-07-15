@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Samuel Triest
 
-You can use the [editor on GitHub](https://github.com/striest/striest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a student at the University of Rochester studying computer science and business (B.S. CS 2020, B.A. Business 2020). I'm currently at Canregie Mellon University researching reinforcement learning-based approaches to planning for autonomous vehicles.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
